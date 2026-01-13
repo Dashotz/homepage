@@ -4,13 +4,13 @@ A modern, professional real estate website for Marci Metzger, Pahrump Realtor wi
 
 ## Features
 
-- 🏠 **Property Listings** - Showcase properties in Pahrump, Nevada with beautiful cards
-- 🔍 **Advanced Property Search** - Comprehensive search with filters for location, type, bedrooms, baths, and price
-- 📊 **Get It Sold Section** - Highlighting track record: 90 clients helped in 2021, $28.5M in sales
-- 📱 **Fully Responsive** - Works perfectly on all devices
-- 🎨 **Modern Design** - Professional and user-friendly interface
-- ⚡ **Fast Performance** - Built with Vite for optimal speed
-- 📞 **Contact Integration** - Direct phone links and WhatsApp messaging
+- **Property Listings** - Showcase properties in Pahrump, Nevada with beautiful cards
+- **Advanced Property Search** - Comprehensive search with filters for location, type, bedrooms, baths, and price
+- **Get It Sold Section** - Highlighting track record: 90 clients helped in 2021, $28.5M in sales
+- **Fully Responsive** - Works perfectly on all devices
+- **Modern Design** - Professional and user-friendly interface
+- **Fast Performance** - Built with Vite for optimal speed
+- **Contact Integration** - Direct phone links and WhatsApp messaging
 
 ## Getting Started
 
@@ -18,34 +18,6 @@ A modern, professional real estate website for Marci Metzger, Pahrump Realtor wi
 
 - Node.js (v16 or higher)
 - npm or yarn
-
-### Installation
-
-1. Install dependencies:
-```bash
-npm install
-```
-
-2. Start the development server:
-```bash
-npm run dev
-```
-
-3. Open your browser and navigate to `http://localhost:5173`
-
-### Build for Production
-
-```bash
-npm run build
-```
-
-The production build will be in the `dist` folder.
-
-### Preview Production Build
-
-```bash
-npm run preview
-```
 
 ## Project Structure
 
@@ -80,14 +52,10 @@ src/
 - **React** - UI library
 - **Vite** - Build tool and dev server
 - **Tailwind CSS** - Utility-first CSS framework
+- **Framer Motion** - Animations
+- **ogl** - WebGL Gallery
+- **React Leaflet** - Maps
 - **PostCSS** - CSS processing
-
-## Customization
-
-You can easily customize:
-- Colors in `tailwind.config.js`
-- Property data in `src/components/FeaturedProperties.jsx`
-- Content in any component file
 
 ## License
 
